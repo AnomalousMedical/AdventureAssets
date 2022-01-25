@@ -1,0 +1,2 @@
+# Anomalous Adventure Assets
+This repo holds the Assets for Anomalous Adventure. These assets come from a variety of sources. For each type of asset you will find a source folder with the name of the source project the assets were taken or adapted from. There is also a Credits.json file with more information for each source.
