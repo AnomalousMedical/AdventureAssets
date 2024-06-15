@@ -1,6 +1,14 @@
-{
-    "title": "Roboto Font",
-    "author": "Christian Robertson",
-    "source": "https://fonts.google.com/specimen/Roboto",
-    "license": "Apache License 2.0"
-}
+[
+    {
+        "title": "Roboto Font",
+        "author": "Christian Robertson",
+        "source": "https://fonts.google.com/specimen/Roboto",
+        "license": "Apache License 2.0"
+    },
+    {
+        "title": "Metal Macabre Font",
+        "author": "Bolt Cutter Design",
+        "source": "https://www.1001fonts.com/metal-macabre-font.html",
+        "license": "1001Fonts Free For Commercial Use License (FFC)"
+    }
+]
